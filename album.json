@@ -1,0 +1,34 @@
+{
+  "Album": [
+    {
+      "Artist": "Taylor Swift",
+      "Album Title": "Fearless",
+      "Song1":  ["Fearless"],
+      "Song2":  ["Fifteen"],
+      "Song3":  ["Love Story"],
+      "Song4":  ["Change"],
+      "Song5":  ["Hey Stephen"],
+      "Release Year": 2008
+    },
+    {
+      "Artist": "Charlie Puth",
+      "Album Title": "Nine Track Mind",
+      "Songs": ["See you again"],
+      "Song2": ["Dangerously"], 
+      "Song3": ["Suffer"],
+      "Song4": ["River"],
+      "Song5": ["Marvin Gaye"],
+      "Release Year": 2016
+    },
+    {
+      "Artist": "Adele",
+      "Album Title": "21",
+      "Songs": ["Rolling in the Deep"],
+      "Song2": ["Someone Like You"],
+      "Song3": ["Set Fire to the Rain"],
+      "Song4": ["Turning Tables"],
+      "Song5": ["Take It All"],
+      "Release Year": 2011
+    }
+  ]
+}
