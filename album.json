@@ -13,7 +13,7 @@
     {
       "Artist": "Charlie Puth",
       "Album Title": "Nine Track Mind",
-      "Songs": ["See you again"],
+      "Song1": ["See you again"],
       "Song2": ["Dangerously"], 
       "Song3": ["Suffer"],
       "Song4": ["River"],
@@ -23,7 +23,7 @@
     {
       "Artist": "Adele",
       "Album Title": "21",
-      "Songs": ["Rolling in the Deep"],
+      "Song2": ["Rolling in the Deep"],
       "Song2": ["Someone Like You"],
       "Song3": ["Set Fire to the Rain"],
       "Song4": ["Turning Tables"],
